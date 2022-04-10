@@ -1,3 +1,4 @@
+/* pages/dashboard.js */
 import { ethers } from 'ethers'
 import { useEffect, useState } from 'react'
 import axios from 'axios'
